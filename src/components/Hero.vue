@@ -76,10 +76,8 @@
          Tips Membangun Rumah dengan Harga Desain Rumah Minimalis yang Sesuai
          </a>
        </h3>
-        <ul class="info">
-         <li>31 Agustus 2021</li>
-         <li>Admin</li>
-         <li>0 Komentar</li>
+         <ul class="info">
+         <li>31 Agustus 2021, Admin, 0 Komentar</li>
        </ul>
      </div>
    </div>
@@ -100,8 +98,8 @@
            Paket Harga Jasa Desain Rumah 3D Yang Bisa Menjadi Pilihan 
          </a>
        </h3>
-       <ul class="info">
-         <li>01 September 2021 Admin 0 Komentar</li>
+      <ul class="info">
+         <li>01 September 2021, Admin, 0 Komentar</li>
        </ul>
      </div>
    </div>
@@ -115,15 +113,12 @@
         5 Rincian Harga Jasa Desain Rumah Per Meter Untuk Berbagai Tipe
          </a>
        </h3>
-       <ul class="info">
-         <li>01 September 2021</li>
-         <li>Admin</li>
-         <li>0 Komentar</li>
+         <ul class="info">
+         <li>01 September 2021, Admin, 0 Komentar</li>
        </ul>
      </div>
    </div>
         </div>
-            
          <div class="col-md-6 mb-3">
              <img  src="https://bintoroarchitect.co.id/media/Harga%20Desain%20Rumah%202%20Lantai.webp" width="100%">
               <div class="caption-box-mobile">
@@ -133,15 +128,12 @@
          7 Model Hunian Yang Memiliki Harga Desain Rumah 2 Lantai Terbaik
          </a>
        </h3>
-       <ul class="info">
-        <li>31 Agustus 2021</li>
-         <li>Admin</li>
-         <li>0 Komentar</li>
+         <ul class="info">
+         <li>31 Agustus 2021, Admin, 0 Komentar</li>
        </ul>
      </div>
    </div>
         </div>
-       
          <div class="col-md-6 mb-3">
          <img  src="https://bintoroarchitect.co.id/media/Harga%20Desain%20Rumah%20Per%20Meter.webp" width="100%">
            <div class="caption-box-mobile">
@@ -151,15 +143,12 @@
          5 Model Minimalis Dengan Harga Desain Rumah Per Meter Yang Terjangkau
          </a>
        </h3>
-       <ul class="info">
-          <li>31 Agustus 2021</li>
-         <li>Admin</li>
-         <li>0 Komentar</li>
+         <ul class="info">
+         <li>31 Agustus 2021, Admin, 0 Komentar</li>
        </ul>
      </div>
    </div>
         </div>
-      
          <div class="col-md-6 mb-3">
          <img src="https://bintoroarchitect.co.id/media/Harga%20Desain%20Rumah%20Minimalis.webp"  width="100%">
          <div class="caption-box-mobile">
@@ -170,14 +159,11 @@
          </a>
        </h3>
        <ul class="info">
-         <li>31 Agustus 2021</li>
-         <li>Admin</li>
-         <li>0 Komentar</li>
+         <li>31 Agustus 2021, Admin, 0 Komentar</li>
        </ul>
      </div>
    </div>
         </div>
-          
       </div>
     </div>
   </div>
