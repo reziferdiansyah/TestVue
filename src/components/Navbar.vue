@@ -1,6 +1,6 @@
 <template>
   <div>
-        <b-navbar toggleable="lg" type="dark" variant="dark">
+        <b-navbar toggleable="lg" type="dark" variant="dark" class="navbar navbar-expand-lg navbar-primary fixed-top" id="mainNav">
       <div class="container">
           <a href="https://bintoroarchitect.co.id">
            <img src="https://bintoroarchitect.co.id/media/LOGO%20NEW%20TEXT%20PUTIH-13%20200.webp">

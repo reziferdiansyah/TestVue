@@ -10,7 +10,7 @@
       <div class="caption-box">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
            Paket Harga Jasa Desain Rumah 3D Yang Bisa Menjadi Pilihan 
          </a>
        </h3>
@@ -27,7 +27,7 @@
     <div class="caption-box">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
         5 Rincian Harga Jasa Desain Rumah Per Meter Untuk Berbagai Tipe
          </a>
        </h3>
@@ -42,7 +42,7 @@
     <div class="caption-box">
      <div clas="inner">
        <h3>
-         <a href="">
+         <a href="/Detail">
          7 Model Hunian Yang Memiliki Harga Desain Rumah 2 Lantai Terbaik
          </a>
        </h3>
@@ -57,7 +57,7 @@
     <div class="caption-box">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
          5 Model Minimalis Dengan Harga Desain Rumah Per Meter Yang Terjangkau
          </a>
        </h3>
@@ -72,7 +72,7 @@
   <div class="caption-box">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
          Tips Membangun Rumah dengan Harga Desain Rumah Minimalis yang Sesuai
          </a>
        </h3>
@@ -94,7 +94,7 @@
          <div class="caption-box-mobile">
          <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
            Paket Harga Jasa Desain Rumah 3D Yang Bisa Menjadi Pilihan 
          </a>
        </h3>
@@ -109,7 +109,7 @@
         <div class="caption-box-mobile">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
         5 Rincian Harga Jasa Desain Rumah Per Meter Untuk Berbagai Tipe
          </a>
        </h3>
@@ -139,7 +139,7 @@
            <div class="caption-box-mobile">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
          5 Model Minimalis Dengan Harga Desain Rumah Per Meter Yang Terjangkau
          </a>
        </h3>
@@ -154,7 +154,7 @@
          <div class="caption-box-mobile">
      <div clas="inner">
        <h3>
-         <a href="">
+          <a href="/Detail">
          Tips Membangun Rumah dengan Harga Desain Rumah Minimalis yang Sesuai
          </a>
        </h3>

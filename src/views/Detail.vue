@@ -129,7 +129,7 @@
               <div class="caption-box-mobile">
      <div clas="inner">
        <h3>
-         <a href="/Detail">
+         <a href="">
          7 Model Hunian Yang Memiliki Harga Desain Rumah 2 Lantai Terbaik
          </a>
        </h3>
